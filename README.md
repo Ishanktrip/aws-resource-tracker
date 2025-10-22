@@ -1,1 +1,2 @@
-[SHELL PROJECT.docx](https://github.com/user-attachments/files/23059984/SHELL.PROJECT.docx)
+
+[How SSH AWS in your terminal using MOBAXTERM.docx](https://github.com/user-attachments/files/23060105/How.SSH.AWS.in.your.terminal.using.MOBAXTERM.docx)
